@@ -17,16 +17,21 @@ This is the main file for the procedure. You will get the link to other files in
 
 For Linux commands, Click here
 
-For Powershell Commands, Click here
+For Powershell Commands, Go to [Falcon Sensor - Powershell](./powershell-deployment/falcon-sensor.md)
 
 ## Falcon IAR (Image Analyzer at Runtime)
 
 For Linux commands, Click here
 
-For Powershell Commands, Click here
+For Powershell Commands, Go to [Falcon KAC - Powershell](./powershell-deployment/falcon-kac.md)
 
 ## Falcon KAC (Kubernetes Admission Controller)
 
 For Linux commands, Click here
 
-For Powershell Commands, Click here
+For Powershell Commands, Go to [Falcon IAR - Powershell](./powershell-deployment/falcon-iar.md)
+
+
+## Final Verification
+
+Go to [Final Verification](./powershell-deployment/final-verification.md)
