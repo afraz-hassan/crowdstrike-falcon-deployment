@@ -1,4 +1,4 @@
-# Falcon Sensor Deployment
+# Falcon IAR (Image Analyzer at Runtime) Deployment
 Welcome to the falcon image analyzer at runtime deployment. In this file we will be using powershell related commands.
 
 
