@@ -82,3 +82,7 @@ Check the logs of the pod:
 ```powershell
 kubectl logs <falcon-sensor-pod> -n falcon-system
 ```
+
+</br>
+
+Go to [Home Page](../CrowdStrike-Falcon-Deployment.md)
