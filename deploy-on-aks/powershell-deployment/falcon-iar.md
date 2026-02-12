@@ -1,4 +1,4 @@
-<img width="468" height="108" alt="image" src="https://github.com/user-attachments/assets/a72ccc28-b6d8-437c-9062-00ab9662af57" /># Falcon Sensor Deployment
+# Falcon Sensor Deployment
 Welcome to the falcon image analyzer at runtime deployment. In this file we will be using powershell related commands.
 
 
