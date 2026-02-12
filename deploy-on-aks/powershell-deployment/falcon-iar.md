@@ -93,6 +93,6 @@ Check the logs of the pod:
 Kubectl logs <falcon-iar-pod-name> -n <falcon-iar-namespace>
 ```
 
-
+</br>
 
 Go to [Home Page](../CrowdStrike-Falcon-Deployment.md)
