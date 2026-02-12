@@ -3,3 +3,7 @@ The one who provided you the client id and client secret, he will have the Login
 
 https://falcon.us-2.crowdstrike.com/login/
 
+
+</br>
+
+Go to [Home Page](../CrowdStrike-Falcon-Deployment.md)
